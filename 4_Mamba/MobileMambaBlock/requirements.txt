@@ -1,0 +1,9 @@
+torch
+timm
+PyWavelets
+packaging
+ninja
+wheel
+setuptools
+einops
+triton
